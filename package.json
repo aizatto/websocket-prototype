@@ -1,0 +1,8 @@
+{
+  "name": "websocket-prototype",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
